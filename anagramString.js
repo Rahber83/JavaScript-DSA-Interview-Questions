@@ -1,4 +1,4 @@
-// 1---> Find if String is Anagram or Not
+// 1---> Find if String is Anagram or Not using in-built functions
 
 let str1 = "lerder";
 let str2 = "readel";
